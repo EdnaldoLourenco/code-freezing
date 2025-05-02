@@ -1,0 +1,7 @@
+glass_breaker_group:
+  - ednaldo
+  - root
+
+freezing_dates:
+  from: 2025-05-02
+  to: 2025-05-07
